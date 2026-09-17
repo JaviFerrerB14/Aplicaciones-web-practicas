@@ -17,10 +17,48 @@ Y asi nos dejara iniciar con normalidad
 
 
 **ISTALACION UBUNTU SERVER GUIA**
-1- Abrimos la maquina virtual 
+1- Abrimos la maquina virtual
+
 2- Lo primero elegir idioma en español para la maquina omo para el teclado
+
 3- Lo siguiente sera actualizar al nueva version 
+
 4- Nos sale distintos tipos de istalaciones elegios a la predeterminada que ese Ubuntu Server
+
 5- Nos saldra el instalador de red y lo dejamos tal cual esta con DHCP
+
 6- Lo siguiente sera el prox y mirror tendremos que dejarlo en blanco
+
 7- En el apartado del almacenamiento tenemos que dejar el disco que creamos completo
+
+8- Creamos el perfil de usuario con nombre de usuario, servidor, contraseña
+
+9- Activas la opcion de SSH Server
+
+10- Ya has acabado la istalacion
+
+11- Selecionamos reboot now
+
+12- POnemos nuestro usuario y contraseña 
+
+12- Hacemos wget google.es
+
+13- Lo siguiente es hacer un ls para que saga el fichero
+
+14- Hacemos cat index.html
+
+15- Dentro de vitual Box entramos en archivo> crear> doble click> servidor DHCP> desactibar
+
+16- Con la maquina apagada entramos en configuracion de la maquina> red> adaptador1> NAT> Adaptador2> solo anfritión
+
+17- Para la lista de interfaces hacemos ip a
+
+18- Lo siguiente es hacer ls /etc/netplan/
+
+19- Para editar sudo nano /etc/netplan/50-cloud-init.yaml
+
+20- Configuramos enp0s8:
+                    dhcp4:  false
+                    addresses:
+                      - 192.168.56.10/24
+21- Guardamos fichero con ctrl+o> enter> ctrl+x
