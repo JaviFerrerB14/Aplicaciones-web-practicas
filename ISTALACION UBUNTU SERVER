@@ -1,13 +1,14 @@
-Abrimos virtualbox
-Le damos a nueva
-Le cambiamos el nombre
-Dejamos la carpeta que ya esta selecionada
-Elejimos el archivo de la ISO Image
-Quitamos el check
-Endavant
-Lo dejamos todo igual solamente subimos a 2CPUS
-Endavant
-Le damos a finaizar
+**CREACION DE LA MAQUINA VIRTUAL**
+1- Abrimos virtualbox
+2- Le damos a nueva
+3- Le cambiamos el nombre
+4- Dejamos la carpeta que ya esta selecionada
+5- Elejimos el archivo de la ISO Image
+6- Quitamos el check
+7- Endavant
+8- Lo dejamos todo igual solamente subimos a 2CPUS
+9- Endavant
+10- Le damos a finaizar
 
 
 Nos ha fallado la maquina ya creada 
@@ -15,11 +16,11 @@ Desistalamos VrtualBo y volvemos a instalarla con una version mas moderna y mejo
 Y asi nos dejara iniciar con normalidad
 
 
-ISTALACION UBUNTU SERVER GUIA
-Abrimos la maquina virtual 
-Lo primero elegir idioma en español para la maquina omo para el teclado
-Lo siguiente sera actualizar al nueva version 
-Nos sale distintos tipos de istalaciones elegios a la predeterminada que ese Ubuntu Server
-Nos saldra el instalador de red y lo dejamos tal cual esta con DHCP
-Lo siguiente sera el prox y mirror tendremos que dejarlo en blanco
-En el apartado del almacenamiento tenemos que dejar el disco que creamos completo
+**ISTALACION UBUNTU SERVER GUIA**
+1- Abrimos la maquina virtual 
+2- Lo primero elegir idioma en español para la maquina omo para el teclado
+3- Lo siguiente sera actualizar al nueva version 
+4- Nos sale distintos tipos de istalaciones elegios a la predeterminada que ese Ubuntu Server
+5- Nos saldra el instalador de red y lo dejamos tal cual esta con DHCP
+6- Lo siguiente sera el prox y mirror tendremos que dejarlo en blanco
+7- En el apartado del almacenamiento tenemos que dejar el disco que creamos completo
