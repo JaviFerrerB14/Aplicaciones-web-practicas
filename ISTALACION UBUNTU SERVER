@@ -1,13 +1,23 @@
 **CREACION DE LA MAQUINA VIRTUAL**
+
 1- Abrimos virtualbox
+
 2- Le damos a nueva
+
 3- Le cambiamos el nombre
+
 4- Dejamos la carpeta que ya esta selecionada
+
 5- Elejimos el archivo de la ISO Image
+
 6- Quitamos el check
+
 7- Endavant
+
 8- Lo dejamos todo igual solamente subimos a 2CPUS
+
 9- Endavant
+
 10- Le damos a finaizar
 
 
@@ -17,6 +27,7 @@ Y asi nos dejara iniciar con normalidad
 
 
 **ISTALACION UBUNTU SERVER GUIA**
+
 1- Abrimos la maquina virtual
 
 2- Lo primero elegir idioma en español para la maquina omo para el teclado
@@ -61,4 +72,10 @@ Y asi nos dejara iniciar con normalidad
                     dhcp4:  false
                     addresses:
                       - 192.168.56.10/24
+
 21- Guardamos fichero con ctrl+o> enter> ctrl+x
+
+22- Para la nueva configuracion ejecutamos sudo netplantry> presionamos enter antes de que acabe el tiempo y luego hacemos ip a
+
+
+
