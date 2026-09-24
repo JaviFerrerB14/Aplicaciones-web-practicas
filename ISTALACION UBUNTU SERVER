@@ -77,5 +77,29 @@ Y asi nos dejara iniciar con normalidad
 
 22- Para la nueva configuracion ejecutamos sudo netplantry> presionamos enter antes de que acabe el tiempo y luego hacemos ip a
 
+Instalacion apache2
+
+1- Sudo apt-get install apache2
+
+2- Le damos a continuar
+
+3- systemctl status apache2
+
+4- cd /etc/apache2
+
+5- cd sites-available/
+
+6- ls
+
+7- nano 000-default.conf
+
+8- ls /var/www/htmal
+
+9- sudo nano /var/www/html/index.html
+
+
+
+
+
 
 
