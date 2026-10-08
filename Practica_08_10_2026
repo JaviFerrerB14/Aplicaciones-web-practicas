@@ -1,1 +1,15 @@
+#UN NOMBRE 2 WEBS
 
+##Primer paso creamos carpetas y páginas 
+
+Creamos las carpetas index e intranet.
+
+Dentro de Index ponemos BIenvenidos a SMR y dentro de intrnet ponemos Intrnaet de SMR.
+
+##USUARIO INTRANET
+
+Lo siguiente es crear el usuario de intranet
+
+##APACHE 9999
+
+Entramos en ports.conf y debajo de la linea LIsten 80 añadimos otra igual paro que sea 9999
