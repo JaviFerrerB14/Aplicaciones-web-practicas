@@ -1,4 +1,4 @@
-**ISTALACION DEL SERVIDOR UBUNTU**
+#ISTALACION DEL SERVIDOR UBUNTU
 
 1- Abrimos Virtualbox
 
@@ -18,7 +18,7 @@
 
 9- Siguiente y finalizamos
 
-**GESTION SERVIDOR SSH**
+#GESTION SERVIDOR SSH
 
 Es un protocolo que permite conectarse de forma segura y remota a otro equipo a través de una red. 
 La conexión está cifrada, por lo que podemos administrar un servidor desde nuestro ordenador sin enviar credenciales y los datos en texto plano.
