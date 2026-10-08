@@ -1,0 +1,25 @@
+**ISTALACION DEL SERVIDOR UBUNTU**
+
+1- Abrimos Virtualbox
+
+2- Le damos a nueva 
+
+3- Le cambiamos el nombre 
+
+4- Dejamos la carpeta predeterminada
+
+5- Elejimos el archivo ISO Image de ubuntu
+
+6- Quitamos el check que siempre viene predeterminado
+
+7- Siguiente
+
+8- Lo dejamos todo igual y subimas las CPSUS a 2
+
+9- Siguiente y finalizamos
+
+**GESTION SERVIDOR SSH**
+
+Es un protocolo que permite conectarse de forma segura y remota a otro equipo a través de una red. 
+La conexión está cifrada, por lo que podemos administrar un servidor desde nuestro ordenador sin enviar credenciales y los datos en texto plano.
+
