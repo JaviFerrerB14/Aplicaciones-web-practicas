@@ -13,3 +13,15 @@ Lo siguiente es crear el usuario de intranet
 ##APACHE 9999
 
 Entramos en ports.conf y debajo de la linea LIsten 80 añadimos otra igual paro que sea 9999
+
+##CREAMOS VIRTUALHOST
+
+Creamos smr.conf
+
+##ACTIVAMOS Y REINICIAMOS APACHE
+
+Con los comandos sudo a2ensite smr.conf
+sudo a2dissite 000-default.conf
+sudo apachectl configtest
+sudo systemctl restart apache2
+
