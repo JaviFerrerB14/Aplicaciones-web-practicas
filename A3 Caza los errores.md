@@ -14,13 +14,23 @@ En la frase b cancelación de ruido/p/b, las etiquetas están cruzadas de forma 
 ## Correcion 
 
 [!DOCTYPE html]
+
 [html lang="es"]
+
 [head]
+
     [meta charset="utf-8"]
+    
     [title]Mi tienda de gadgets[/title]
+    
 [/head]
+
 [body]
+
     [h1]Ofertas de otoño[/h1]
+    
     [p]Auriculares con [b]cancelación de ruido[/b][/p]
+    
 [/body]
+
 [/html]
