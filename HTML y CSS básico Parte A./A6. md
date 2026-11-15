@@ -1,1 +1,9 @@
+# Qué verá el usuario 
 
+“Resumen de la jornada” como título grande en negrita ([h1]), con un margen arriba y abajo.
+Un párrafo en dos líneas, porque el [br] fuerza el salto sin dejar espacio extra entre ellas:
+Ha ganado el equipo local.
+El rival se despide del torneo.
+Una línea horizontal gris que cruza todo el ancho ([hr]).
+“Próximo partido” en negrita, pero bastante más pequeño que el <h1> ([h4] es casi del tamaño del texto normal).
+Un párrafo normal: “Sábado a las 18:00”.
